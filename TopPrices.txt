@@ -1,0 +1,20 @@
+
+Top 3 common prices for all-purpose flour:
+Price: ₹300.00, Frequency: 3
+Price: ₹550.00, Frequency: 2
+Price: ₹72.00, Frequency: 2
+
+Top 3 common prices for eggs:
+Price: ₹99.00, Frequency: 3
+Price: ₹230.00, Frequency: 2
+Price: ₹220.00, Frequency: 2
+
+Top 3 common prices for 12 eggs:
+Price: ₹99.00, Frequency: 4
+Price: ₹85.00, Frequency: 2
+Price: ₹100.00, Frequency: 2
+
+Top 3 common prices for 1 kg sugar:
+Price: ₹48.00, Frequency: 4
+Price: ₹45.00, Frequency: 4
+Price: ₹55.00, Frequency: 3
